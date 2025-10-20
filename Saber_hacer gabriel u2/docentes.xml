@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<docentes>
+  <docente>
+    <nombre>Leandro</nombre>
+    <especialidad>Redes</especialidad>
+    <numero_empleado>2</numero_empleado>
+  </docente>
+  <docente>
+    <nombre>paty</nombre>
+    <especialidad>entornos</especialidad>
+    <numero_empleado>3</numero_empleado>
+  </docente>
+  <docente>
+    <nombre>alan</nombre>
+    <especialidad>Programacion</especialidad>
+    <numero_empleado>1</numero_empleado>
+  </docente>
+</docentes>

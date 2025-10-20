@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Leandro",
+        "especialidad": "Redes",
+        "numero_empleado": 2
+    },
+    {
+        "nombre": "paty",
+        "especialidad": "entornos",
+        "numero_empleado": 3
+    },
+    {
+        "nombre": "alan",
+        "especialidad": "Programacion",
+        "numero_empleado": 1
+    }
+]
